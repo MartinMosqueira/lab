@@ -1,4 +1,4 @@
-def suma_de_numeros_repetidos(numero,repeticion):
+def suma_de_numeros_repetidos(numero, repeticion):
     listaNumero = []
     sumaNumero = 0
     elemento = numero
